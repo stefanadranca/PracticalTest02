@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="pokemon_name">Numele pokemonului</string>
+    <string name="connect">Initializeza cererea</string>
+    <string name="my_image_description">Imaginea Pokemonului</string>
+    <string name="abilitati">Abilitati</string>
+    <string name="tipuri">Tipuri pokemon</string>
+</resources>
